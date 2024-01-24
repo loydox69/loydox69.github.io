@@ -6,8 +6,15 @@
     <description>Recent content on Chris Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jan 2024 04:40:16 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 12:37:53 +0800</lastBuildDate>
     <atom:link href="https://loydox69.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create_post</title>
+      <link>https://loydox69.github.io/posts/create_post/</link>
+      <pubDate>Tue, 23 Jan 2024 12:37:53 +0800</pubDate>
+      <guid>https://loydox69.github.io/posts/create_post/</guid>
+      <description>#Create new post To create a new psot, we use syntax &amp;gt; hugo new posts/Create_post.md before we start hugo.exe the index.html is not auto generate the &amp;lt;article&amp;gt; tag, latest</description>
+    </item>
     <item>
       <title>C&#43;&#43;decompiler</title>
       <link>https://loydox69.github.io/posts/c&#43;&#43;decompiler/</link>
